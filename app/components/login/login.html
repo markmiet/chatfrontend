@@ -1,0 +1,17 @@
+<div>
+  <input type="text" name="input" ng-model="username">
+
+<button ng-click="login()">Login</button>
+
+<p> {{loginstatus}} </p>
+
+<table>
+    <tr ng-repeat-start="user in users">
+      <td>
+        {{user.name}}
+      </td>
+ <tr ng-repeat-end>
+</table>
+
+
+</div>

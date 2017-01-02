@@ -1,0 +1,24 @@
+1. kirjautumissivu
+
+
+
+2. sätti-ikkuna
+2.1teksti-ikkuna
+2.2 sanoruutu
+2.3 sättärit lista
+
+
+
+
+
+
+----------
+backend
+users
+
+
+getusers
+
+
+
+gettext
